@@ -1,0 +1,45 @@
+#id1{
+	margin-top: 100px;
+}
+img{
+	height:800px;
+	width: 500px;
+}
+
+#id2{
+		text-decoration: none;
+		color: white;
+		border: none;
+		
+}
+#id3{
+		text-decoration: none;
+		border: none;
+			
+}
+#id4{
+		background-color: darkblue;
+		border: none;
+}
+#id5{
+		border: none;
+		background-color: orangered;
+	}
+	#id7{
+		margin-bottom: 15%;
+
+	}
+	.id8{
+		margin-left: 20px;
+	}
+	.id9{
+		margin-left: 50px;
+		opacity: 50%;
+	}
+	.id10{
+		opacity: 50%;
+		margin-left: 200px;
+	}
+	#id11{
+		color: grey;
+	}
